@@ -1,2 +1,3 @@
 # hello-world
-a repository
+
+Hi humans! I am learning to write codes.
